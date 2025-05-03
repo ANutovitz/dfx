@@ -1,0 +1,17 @@
+,feature_name,dfx_feature_importance
+0,Age,1
+1,Flight Distance,1
+2,Inflight wifi service,1
+3,Departure/Arrival time convenient,1
+4,Ease of Online booking,1
+5,Gate location,1
+6,Food and drink,1
+7,Online boarding,1
+8,Seat comfort,1
+9,Inflight entertainment,1
+10,On-board service,1
+11,Leg room service,1
+12,Baggage handling,1
+13,Checkin service,1
+15,Cleanliness,1
+14,Inflight service,-1

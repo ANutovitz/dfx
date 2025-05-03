@@ -1,0 +1,18 @@
+,feature_name,dfx_feature_importance
+8,IUD (years),1
+9,Dx:CIN,1
+15,Hormonal Contraceptives (years)_|_IUD,1
+14,Num of pregnancies_|_Hormonal Contraceptives,1
+13,Citology,1
+12,Schiller,1
+11,Hinselmann,1
+10,Dx:HPV,1
+16,Dx:CIN_|_Hinselmann,1
+1,Num of pregnancies,1
+7,IUD,1
+4,Smokes (packs/year),1
+3,Smokes (years),1
+6,Hormonal Contraceptives (years),-1
+5,Hormonal Contraceptives,-1
+2,Smokes,-1
+0,Number of sexual partners,-1

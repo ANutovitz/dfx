@@ -1,0 +1,11 @@
+,feature_name,dfx_feature_importance
+0,gender,1
+2,hypertension,1
+3,heart_disease,1
+4,ever_married,1
+5,work_type,1
+7,avg_glucose_level,1
+8,bmi,1
+9,smoking_status,1
+1,age,-1
+6,Residence_type,-1

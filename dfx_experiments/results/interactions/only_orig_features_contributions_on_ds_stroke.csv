@@ -1,0 +1,11 @@
+,feature_name,dfx_feature_importance
+8,bmi,0.008815458900821764
+9,smoking_status,0.005797239509249765
+1,age,0.005444132262011132
+7,avg_glucose_level,0.0029134824380257322
+4,ever_married,0.0015076616400284196
+6,Residence_type,0.0006264737415085409
+0,gender,0.0
+2,hypertension,0.0
+3,heart_disease,0.0
+5,work_type,0.0

@@ -1,0 +1,312 @@
+,feature_name,dfx_feature_importance
+155,Cash Reinvestment %_|_Quick Asset Turnover Rate,1
+197,Accounts Receivable Turnover_|_Inventory Turnover Rate (times),1
+203,Accounts Receivable Turnover_|_Interest Coverage Ratio (Interest expense to EBIT),1
+202,Accounts Receivable Turnover_|_No-credit Interval,1
+201,Accounts Receivable Turnover_|_Fixed Assets to Assets,1
+200,Accounts Receivable Turnover_|_Quick Asset Turnover Rate,1
+199,Accounts Receivable Turnover_|_Quick Assets/Total Assets,1
+198,Accounts Receivable Turnover_|_Allocation rate per person,1
+196,Total Asset Turnover_|_Liability-Assets Flag,1
+205,Average Collection Days_|_Operating Funds to Liability,1
+195,Total Asset Turnover_|_Cash Turnover Rate,1
+194,Contingent liabilities/Net worth_|_Equity to Liability,1
+193,Contingent liabilities/Net worth_|_Interest Coverage Ratio (Interest expense to EBIT),1
+192,Contingent liabilities/Net worth_|_Current Liability to Current Assets,1
+190,Contingent liabilities/Net worth_|_Operating Funds to Liability,1
+189,Contingent liabilities/Net worth_|_Accounts Receivable Turnover,1
+204,Average Collection Days_|_Cash/Total Assets,1
+207,Average Collection Days_|_Inventory/Current Liability,1
+187,Long-term fund suitability ratio (A)_|_Quick Asset Turnover Rate,1
+217,Fixed Assets Turnover Frequency_|_Quick Asset Turnover Rate,1
+225,Net Worth Turnover Rate (times)_|_Total income/Total expense,1
+224,Net Worth Turnover Rate (times)_|_Operating Funds to Liability,1
+223,Fixed Assets Turnover Frequency_|_Net Income Flag,1
+222,Fixed Assets Turnover Frequency_|_Degree of Financial Leverage (DFL),1
+221,Fixed Assets Turnover Frequency_|_Total assets to GNP price,1
+218,Fixed Assets Turnover Frequency_|_Fixed Assets to Assets,1
+216,Fixed Assets Turnover Frequency_|_Allocation rate per person,1
+208,Average Collection Days_|_Current Asset Turnover Rate,1
+215,Inventory Turnover Rate (times)_|_CFO to Assets,1
+214,Inventory Turnover Rate (times)_|_Cash Flow to Total Assets,1
+213,Inventory Turnover Rate (times)_|_Quick Asset Turnover Rate,1
+212,Inventory Turnover Rate (times)_|_Total expense/Assets,1
+211,Average Collection Days_|_Current Liability to Current Assets,1
+210,Average Collection Days_|_Cash Flow to Liability,1
+188,Long-term fund suitability ratio (A)_|_CFO to Assets,1
+185,Long-term fund suitability ratio (A)_|_Inventory/Working Capital,1
+230,Net Worth Turnover Rate (times)_|_Equity to Liability,1
+1,Research and development expense rate,1
+163,Quick Ratio_|_Fixed Assets to Assets,1
+162,Quick Ratio_|_Cash/Current Liability,1
+161,Current Ratio_|_Cash Turnover Rate,1
+160,Current Ratio_|_Total expense/Assets,1
+159,Current Ratio_|_Retained Earnings to Total Assets,1
+157,Current Ratio_|_Fixed Assets Turnover Frequency,1
+154,Cash Reinvestment %_|_Total expense/Assets,1
+165,Quick Ratio_|_Total assets to GNP price,1
+153,Cash Reinvestment %_|_Inventory Turnover Rate (times),1
+151,Total Asset Return Growth Rate Ratio_|_No-credit Interval,1
+150,Total Asset Return Growth Rate Ratio_|_Liability-Assets Flag,1
+149,Total Asset Return Growth Rate Ratio_|_Cash Flow to Total Assets,1
+148,Total Asset Return Growth Rate Ratio_|_Quick Asset Turnover Rate,1
+147,Total Asset Return Growth Rate Ratio_|_Retained Earnings to Total Assets,1
+164,Quick Ratio_|_Current Liability to Current Assets,1
+166,Quick Ratio_|_Equity to Liability,1
+184,Long-term fund suitability ratio (A)_|_Cash/Total Assets,1
+177,Total debt/Total net worth_|_Long-term Liability to Current Assets,1
+183,Long-term fund suitability ratio (A)_|_Quick Assets/Total Assets,1
+182,Long-term fund suitability ratio (A)_|_Contingent liabilities/Net worth,1
+181,Total debt/Total net worth_|_Current Liability to Current Assets,1
+180,Total debt/Total net worth_|_Cash Flow to Liability,1
+179,Total debt/Total net worth_|_Fixed Assets to Assets,1
+178,Total debt/Total net worth_|_Total expense/Assets,1
+176,Total debt/Total net worth_|_Inventory/Current Liability,1
+167,Interest Expense Ratio_|_Inventory Turnover Rate (times),1
+175,Total debt/Total net worth_|_Cash/Current Liability,1
+174,Total debt/Total net worth_|_Cash/Total Assets,1
+172,Total debt/Total net worth_|_Operating profit per person,1
+170,Interest Expense Ratio_|_Total income/Total expense,1
+169,Interest Expense Ratio_|_Operating profit per person,1
+168,Interest Expense Ratio_|_Fixed Assets Turnover Frequency,1
+227,Net Worth Turnover Rate (times)_|_Fixed Assets to Assets,1
+231,Operating profit per person_|_Total income/Total expense,1
+144,Total Asset Return Growth Rate Ratio_|_Quick Assets/Total Assets,1
+282,Total expense/Assets_|_Cash Flow to Liability,1
+288,Current Asset Turnover Rate_|_Liability-Assets Flag,1
+287,Current Asset Turnover Rate_|_Current Liability to Current Assets,1
+286,Current Asset Turnover Rate_|_Cash Flow to Liability,1
+285,Total expense/Assets_|_Net Income Flag,1
+284,Total expense/Assets_|_Degree of Financial Leverage (DFL),1
+283,Total expense/Assets_|_Cash Flow to Equity,1
+281,Total expense/Assets_|_Quick Asset Turnover Rate,1
+290,Quick Asset Turnover Rate_|_Cash Flow to Total Assets,1
+280,Total income/Total expense_|_Equity to Liability,1
+279,Total income/Total expense_|_Cash Flow to Liability,1
+277,Retained Earnings to Total Assets_|_Net Income Flag,1
+276,Long-term Liability to Current Assets_|_Interest Coverage Ratio (Interest expense to EBIT),1
+275,Long-term Liability to Current Assets_|_Cash Flow to Equity,1
+274,Long-term Liability to Current Assets_|_Cash Flow to Liability,1
+289,Current Asset Turnover Rate_|_Interest Coverage Ratio (Interest expense to EBIT),1
+291,Quick Asset Turnover Rate_|_Interest Coverage Ratio (Interest expense to EBIT),1
+271,Inventory/Current Liability_|_Liability-Assets Flag,1
+302,Cash Flow to Equity_|_Interest Coverage Ratio (Interest expense to EBIT),1
+309,Degree of Financial Leverage (DFL)_|_Equity to Liability,1
+308,No-credit Interval_|_Net Income Flag,1
+306,Total assets to GNP price_|_Interest Coverage Ratio (Interest expense to EBIT),1
+305,Liability-Assets Flag_|_No-credit Interval,1
+304,Current Liability to Current Assets_|_Equity to Liability,1
+303,Current Liability to Current Assets_|_Net Income Flag,1
+301,Cash Flow to Equity_|_Total assets to GNP price,1
+292,Cash Turnover Rate_|_Net Income Flag,1
+299,CFO to Assets_|_Total assets to GNP price,1
+298,Cash Flow to Liability_|_Equity to Liability,1
+297,Cash Flow to Liability_|_Degree of Financial Leverage (DFL),1
+295,Cash Flow to Total Assets_|_Degree of Financial Leverage (DFL),1
+294,Fixed Assets to Assets_|_Total assets to GNP price,1
+293,Fixed Assets to Assets_|_Cash Flow to Equity,1
+273,Long-term Liability to Current Assets_|_Cash Turnover Rate,1
+270,Inventory/Current Liability_|_Cash Flow to Equity,1
+232,Operating profit per person_|_Total expense/Assets,1
+242,Quick Assets/Total Assets_|_Long-term Liability to Current Assets,1
+248,Cash/Total Assets_|_Long-term Liability to Current Assets,1
+247,Quick Assets/Total Assets_|_Equity to Liability,1
+246,Quick Assets/Total Assets_|_Total assets to GNP price,1
+245,Quick Assets/Total Assets_|_Cash Flow to Equity,1
+244,Quick Assets/Total Assets_|_Current Asset Turnover Rate,1
+243,Quick Assets/Total Assets_|_Total income/Total expense,1
+241,Quick Assets/Total Assets_|_Operating Funds to Liability,1
+250,Cash/Total Assets_|_Liability-Assets Flag,1
+240,Quick Assets/Total Assets_|_Cash/Total Assets,1
+239,Allocation rate per person_|_Cash Flow to Liability,1
+238,Allocation rate per person_|_Quick Asset Turnover Rate,1
+236,Operating profit per person_|_Net Income Flag,1
+235,Operating profit per person_|_Degree of Financial Leverage (DFL),1
+233,Operating profit per person_|_Quick Asset Turnover Rate,1
+249,Cash/Total Assets_|_Fixed Assets to Assets,1
+251,Cash/Total Assets_|_Equity to Liability,1
+269,Inventory/Current Liability_|_Cash Flow to Liability,1
+261,Inventory/Working Capital_|_Total expense/Assets,1
+268,Inventory/Current Liability_|_Fixed Assets to Assets,1
+267,Inventory/Current Liability_|_Quick Asset Turnover Rate,1
+266,Inventory/Current Liability_|_Long-term Liability to Current Assets,1
+265,Inventory/Working Capital_|_Equity to Liability,1
+264,Inventory/Working Capital_|_No-credit Interval,1
+262,Inventory/Working Capital_|_Cash Flow to Total Assets,1
+260,Inventory/Working Capital_|_Total income/Total expense,1
+252,Cash/Current Liability_|_Current Asset Turnover Rate,1
+259,Inventory/Working Capital_|_Retained Earnings to Total Assets,1
+258,Operating Funds to Liability_|_Cash Flow to Liability,1
+257,Operating Funds to Liability_|_Fixed Assets to Assets,1
+255,Cash/Current Liability_|_Equity to Liability,1
+254,Cash/Current Liability_|_Net Income Flag,1
+253,Cash/Current Liability_|_Current Liability to Current Assets,1
+146,Total Asset Return Growth Rate Ratio_|_Long-term Liability to Current Assets,1
+310,Interest Coverage Ratio (Interest expense to EBIT)_|_Equity to Liability,1
+143,Total Asset Return Growth Rate Ratio_|_Long-term fund suitability ratio (A),1
+67,Research and development expense rate_|_Net Income Flag,1
+52,Operating Expense Rate_|_Cash Reinvestment %,1
+53,Operating Expense Rate_|_Interest Expense Ratio,1
+54,Operating Expense Rate_|_Inventory Turnover Rate (times),1
+55,Operating Expense Rate_|_Cash/Total Assets,1
+56,Operating Expense Rate_|_Inventory/Working Capital,1
+57,Operating Expense Rate_|_Total income/Total expense,1
+59,Research and development expense rate_|_Cash flow rate,1
+60,Research and development expense rate_|_Interest-bearing debt interest rate,1
+62,Research and development expense rate_|_Realized Sales Gross Profit Growth Rate,1
+63,Research and development expense rate_|_Continuous Net Profit Growth Rate,1
+64,Research and development expense rate_|_Cash Reinvestment %,1
+65,Research and development expense rate_|_Interest Expense Ratio,1
+66,Research and development expense rate_|_Fixed Assets to Assets,1
+68,Cash flow rate_|_Tax rate (A),1
+49,Net Income Flag,1
+70,Cash flow rate_|_Cash/Current Liability,1
+72,Cash flow rate_|_Inventory/Working Capital,1
+74,Cash flow rate_|_Total income/Total expense,1
+75,Cash flow rate_|_Cash Turnover Rate,1
+77,Cash flow rate_|_Liability-Assets Flag,1
+78,Cash flow rate_|_Total assets to GNP price,1
+79,Interest-bearing debt interest rate_|_Cash Flow Per Share,1
+80,Interest-bearing debt interest rate_|_Interest Expense Ratio,1
+83,Interest-bearing debt interest rate_|_Allocation rate per person,1
+84,Interest-bearing debt interest rate_|_Total expense/Assets,1
+85,Interest-bearing debt interest rate_|_Cash Turnover Rate,1
+86,Interest-bearing debt interest rate_|_Equity to Liability,1
+87,Tax rate (A)_|_Total Asset Return Growth Rate Ratio,1
+51,Operating Expense Rate_|_Cash Flow Per Share,1
+48,Interest Coverage Ratio (Interest expense to EBIT),1
+89,Tax rate (A)_|_Quick Ratio,1
+25,Quick Assets/Total Assets,1
+3,Interest-bearing debt interest rate,1
+6,Realized Sales Gross Profit Growth Rate,1
+8,Total Asset Growth Rate,1
+9,Total Asset Return Growth Rate Ratio,1
+10,Cash Reinvestment %,1
+14,Total debt/Total net worth,1
+15,Long-term fund suitability ratio (A),1
+16,Contingent liabilities/Net worth,1
+19,Average Collection Days,1
+20,Inventory Turnover Rate (times),1
+21,Fixed Assets Turnover Frequency,1
+23,Operating profit per person,1
+24,Allocation rate per person,1
+27,Cash/Current Liability,1
+47,Degree of Financial Leverage (DFL),1
+29,Inventory/Working Capital,1
+31,Long-term Liability to Current Assets,1
+35,Current Asset Turnover Rate,1
+36,Quick Asset Turnover Rate,1
+37,Cash Turnover Rate,1
+38,Fixed Assets to Assets,1
+40,Cash Flow to Liability,1
+41,CFO to Assets,1
+42,Cash Flow to Equity,1
+43,Current Liability to Current Assets,1
+44,Liability-Assets Flag,1
+45,Total assets to GNP price,1
+46,No-credit Interval,1
+88,Tax rate (A)_|_Cash Reinvestment %,1
+73,Cash flow rate_|_Long-term Liability to Current Assets,1
+107,Cash Flow Per Share_|_Quick Asset Turnover Rate,1
+133,Total Asset Growth Rate_|_Allocation rate per person,1
+105,Cash Flow Per Share_|_Fixed Assets Turnover Frequency,1
+106,Cash Flow Per Share_|_Inventory/Current Liability,1
+135,Total Asset Growth Rate_|_Cash/Total Assets,1
+134,Total Asset Growth Rate_|_Quick Assets/Total Assets,1
+109,Realized Sales Gross Profit Growth Rate_|_Cash Reinvestment %,1
+110,Realized Sales Gross Profit Growth Rate_|_Long-term fund suitability ratio (A),1
+111,Realized Sales Gross Profit Growth Rate_|_Allocation rate per person,1
+113,Realized Sales Gross Profit Growth Rate_|_Cash/Total Assets,1
+114,Realized Sales Gross Profit Growth Rate_|_Cash/Current Liability,1
+115,Realized Sales Gross Profit Growth Rate_|_Inventory/Current Liability,1
+116,Realized Sales Gross Profit Growth Rate_|_Quick Asset Turnover Rate,1
+117,Realized Sales Gross Profit Growth Rate_|_Cash Turnover Rate,1
+136,Total Asset Growth Rate_|_Operating Funds to Liability,1
+118,Realized Sales Gross Profit Growth Rate_|_Fixed Assets to Assets,1
+119,Realized Sales Gross Profit Growth Rate_|_Cash Flow to Total Assets,1
+120,Realized Sales Gross Profit Growth Rate_|_Degree of Financial Leverage (DFL),1
+121,Continuous Net Profit Growth Rate_|_Interest Expense Ratio,1
+131,Total Asset Growth Rate_|_Net Worth Turnover Rate (times),1
+122,Continuous Net Profit Growth Rate_|_Average Collection Days,1
+123,Continuous Net Profit Growth Rate_|_Inventory/Working Capital,1
+124,Continuous Net Profit Growth Rate_|_Inventory/Current Liability,1
+125,Continuous Net Profit Growth Rate_|_Retained Earnings to Total Assets,1
+126,Continuous Net Profit Growth Rate_|_Total expense/Assets,1
+128,Total Asset Growth Rate_|_Current Ratio,1
+104,Cash Flow Per Share_|_Long-term fund suitability ratio (A),1
+129,Total Asset Growth Rate_|_Total debt/Total net worth,1
+97,Tax rate (A)_|_CFO to Assets,1
+99,Tax rate (A)_|_No-credit Interval,1
+137,Total Asset Growth Rate_|_Total income/Total expense,1
+141,Total Asset Return Growth Rate Ratio_|_Current Ratio,1
+102,Cash Flow Per Share_|_Total Asset Growth Rate,1
+95,Tax rate (A)_|_Quick Asset Turnover Rate,1
+101,Cash Flow Per Share_|_Continuous Net Profit Growth Rate,1
+91,Tax rate (A)_|_Accounts Receivable Turnover,1
+92,Tax rate (A)_|_Net Worth Turnover Rate (times),1
+140,Total Asset Growth Rate_|_Liability-Assets Flag,1
+138,Total Asset Growth Rate_|_Cash Flow to Equity,1
+93,Tax rate (A)_|_Cash/Total Assets,1
+94,Tax rate (A)_|_Total expense/Assets,1
+139,Total Asset Growth Rate_|_Current Liability to Current Assets,1
+307,No-credit Interval_|_Interest Coverage Ratio (Interest expense to EBIT),-1
+142,Total Asset Return Growth Rate Ratio_|_Interest Expense Ratio,-1
+28,Operating Funds to Liability,-1
+4,Tax rate (A),-1
+130,Total Asset Growth Rate_|_Contingent liabilities/Net worth,-1
+2,Cash flow rate,-1
+278,Total income/Total expense_|_Current Asset Turnover Rate,-1
+30,Inventory/Current Liability,-1
+26,Cash/Total Assets,-1
+152,Cash Reinvestment %_|_Long-term fund suitability ratio (A),-1
+132,Total Asset Growth Rate_|_Operating profit per person,-1
+5,Cash Flow Per Share,-1
+158,Current Ratio_|_Allocation rate per person,-1
+17,Total Asset Turnover,-1
+7,Continuous Net Profit Growth Rate,-1
+300,CFO to Assets_|_Net Income Flag,-1
+22,Net Worth Turnover Rate (times),-1
+11,Current Ratio,-1
+156,Cash Reinvestment %_|_Degree of Financial Leverage (DFL),-1
+12,Quick Ratio,-1
+296,Cash Flow to Liability_|_Current Liability to Current Assets,-1
+18,Accounts Receivable Turnover,-1
+32,Retained Earnings to Total Assets,-1
+13,Interest Expense Ratio,-1
+206,Average Collection Days_|_Inventory/Working Capital,-1
+173,Total debt/Total net worth_|_Allocation rate per person,-1
+33,Total income/Total expense,-1
+76,Cash flow rate_|_Cash Flow to Liability,-1
+71,Cash flow rate_|_Operating Funds to Liability,-1
+229,Net Worth Turnover Rate (times)_|_Net Income Flag,-1
+228,Net Worth Turnover Rate (times)_|_Liability-Assets Flag,-1
+145,Total Asset Return Growth Rate Ratio_|_Cash/Total Assets,-1
+226,Net Worth Turnover Rate (times)_|_Current Asset Turnover Rate,-1
+100,Cash Flow Per Share_|_Realized Sales Gross Profit Growth Rate,-1
+98,Tax rate (A)_|_Total assets to GNP price,-1
+234,Operating profit per person_|_Total assets to GNP price,-1
+220,Fixed Assets Turnover Frequency_|_CFO to Assets,-1
+219,Fixed Assets Turnover Frequency_|_Cash Flow to Total Assets,-1
+96,Tax rate (A)_|_Cash Flow to Liability,-1
+81,Interest-bearing debt interest rate_|_Total debt/Total net worth,-1
+82,Interest-bearing debt interest rate_|_Total Asset Turnover,-1
+90,Tax rate (A)_|_Contingent liabilities/Net worth,-1
+69,Cash flow rate_|_Accounts Receivable Turnover,-1
+103,Cash Flow Per Share_|_Total Asset Return Growth Rate Ratio,-1
+34,Total expense/Assets,-1
+256,Operating Funds to Liability_|_Current Asset Turnover Rate,-1
+272,Inventory/Current Liability_|_Equity to Liability,-1
+127,Continuous Net Profit Growth Rate_|_Current Asset Turnover Rate,-1
+39,Cash Flow to Total Assets,-1
+263,Inventory/Working Capital_|_Cash Flow to Liability,-1
+171,Total debt/Total net worth_|_Long-term fund suitability ratio (A),-1
+209,Average Collection Days_|_Fixed Assets to Assets,-1
+50,Equity to Liability,-1
+191,Contingent liabilities/Net worth_|_Inventory/Current Liability,-1
+112,Realized Sales Gross Profit Growth Rate_|_Quick Assets/Total Assets,-1
+58,Operating Expense Rate_|_Total expense/Assets,-1
+108,Cash Flow Per Share_|_Equity to Liability,-1
+61,Research and development expense rate_|_Cash Flow Per Share,-1
+186,Long-term fund suitability ratio (A)_|_Retained Earnings to Total Assets,-1
+237,Allocation rate per person_|_Quick Assets/Total Assets,-1
+0,Operating Expense Rate,-1

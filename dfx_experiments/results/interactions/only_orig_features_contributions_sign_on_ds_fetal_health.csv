@@ -1,0 +1,17 @@
+,feature_name,dfx_feature_importance
+0,baseline value,1
+1,accelerations,1
+2,fetal_movement,1
+3,uterine_contractions,1
+4,light_decelerations,1
+5,severe_decelerations,1
+6,prolongued_decelerations,1
+7,abnormal_short_term_variability,1
+8,mean_value_of_short_term_variability,1
+9,percentage_of_time_with_abnormal_long_term_variability,1
+10,mean_value_of_long_term_variability,1
+11,histogram_number_of_peaks,1
+12,histogram_number_of_zeroes,1
+13,histogram_mode,1
+14,histogram_variance,1
+15,histogram_tendency,1
